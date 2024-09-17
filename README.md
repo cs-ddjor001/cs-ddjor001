@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**cs-ddjor001/cs-ddjor001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **About me**
+- Name: Dusan Djordjevic (Sean)
+- Major: Computer Science
+- Minor: Applied Math
+- Interests: Programming, Video Games, Movies and TV Series, Morris Stories
+- Fun fact: My body is really stretchy and I can get it into uncomertable positions effortlessy. My friends always freak out when they see it.
 
-Here are some ideas to get you started:
+# **Persnal Projects**
+- Website Analysis Project, CS 350 Introduction to Software Engineering: https://github.com/Old-Dominion-Univ-CS-Dept/semester-project-website-analysis-tuesday-1
+- Dual Numbers AD library for C++ : https://github.com/cs-ddjor001/Dual-Numbers
+- K-means Document Clustering Algorithm, CS 361 Data Structures and Algorithms: https://github.com/cs-ddjor001/Document-Clustering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Selected Languages**
+- C++
+- Java
+- Python
+- Rust
+
+# **Technlogies Used**
+- VS Code
+- Cuda C++
+- Gradle
