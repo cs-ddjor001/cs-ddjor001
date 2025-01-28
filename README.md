@@ -22,3 +22,4 @@
 - VS Code
 - Cuda C++
 - Gradle
+- Cargo
